@@ -51,7 +51,7 @@
 #define Y5_GPIO_NUM        5
 #define Y4_GPIO_NUM       34
 #define Y3_GPIO_NUM       35
-#define Y2_GPIO_NUM       32
+#define Y2_GPIO_NUM       17
 #define VSYNC_GPIO_NUM    22
 #define HREF_GPIO_NUM     26
 #define PCLK_GPIO_NUM     21
